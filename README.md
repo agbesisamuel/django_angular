@@ -1,1 +1,1 @@
-"# django_angular" 
+"# django_angular 8" 
